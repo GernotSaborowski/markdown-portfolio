@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Awesome attributes: _analytic_ and *curious*, __knowledgable__ and **friendly** as well as *__respectful__* 
